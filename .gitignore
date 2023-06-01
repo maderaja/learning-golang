@@ -14,6 +14,7 @@
 *.test.go
 *.cover
 *.coverprofile
+*.txt
 
 # Dependency directories (created by 'go get' or 'go mod')
 /vendor/
