@@ -22,7 +22,6 @@
 # Output directories (created by 'go build' or 'go install')
 /bin/
 /dist/
-/backup/
 /release/
 
 # Build and Debug artifacts
@@ -32,3 +31,5 @@
 
 # Ignore .DS_Store files on macOS
 .DS_Store
+
+backup/
